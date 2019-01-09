@@ -25,7 +25,7 @@ SECRET_KEY = '=gop(#_jiky+9jq8@d9zdm_&p^$i=pn=+6b235pmp!n()5s^2o'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
